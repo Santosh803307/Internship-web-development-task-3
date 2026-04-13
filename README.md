@@ -31,3 +31,10 @@ Before you begin, ensure you have installed:
 ```bash
 mkdir book-api
 cd book-api
+
+✅ Server running on http://localhost:3000
+📚 Test endpoints:
+   GET    - http://localhost:3000/books
+   POST   - http://localhost:3000/books
+   PUT    - http://localhost:3000/books/1
+   DELETE - http://localhost:3000/books/1
